@@ -1,0 +1,35 @@
+@import url(../GoGames/blocks/body/body.css);
+
+@import url(../GoGames/blocks/header/header.css);
+@import url(../GoGames/blocks/header/__logo/header__logo.css);
+@import url(../GoGames/blocks/header/__container/header__container.css);
+@import url(../GoGames/blocks/header/__link/header__link.css);
+@import url(../GoGames/blocks/get-started-button/get-started-button.css);
+
+@import url(../GoGames/blocks/main/main.css);
+
+@import url(../GoGames/blocks/started/started.css);
+@import url(../GoGames/blocks/started/__container/started__container.css);
+@import url(../GoGames/blocks/started/__title/started__title.css);
+@import url(../GoGames/blocks/started/__title/_color_blue/started__title_color_blue.css);
+@import url(../GoGames/blocks/started/__label/started__label.css);
+@import url(../GoGames/blocks/started/__text/started__text.css);
+@import url(../GoGames/blocks/started/__character/started__character.css);
+@import url(../GoGames/blocks/started/__hero/started__hero.css);
+
+@import url(../GoGames/blocks/card-sale/card-sale.css);
+@import url(../GoGames/blocks/card-sale/_pos_top/card-sale_pos_top.css);
+@import url(../GoGames/blocks/card-sale/_pos_bot/card-sale_pos-bot.css);
+@import url(../GoGames/blocks/card-sale/__name/card-sale__name.css);
+@import url(../GoGames/blocks/card-sale/__stars/card-sale__stars.css);
+@import url(../GoGames/blocks/card-sale/__price/card-sale__price.css);
+@import url(../GoGames/blocks/card-sale/__container/card-sale__container.css);
+@import url(../GoGames/blocks/card-sale/__review/card-sale__review.css);
+@import url(../GoGames/blocks/card-sale/__image/card-sale__image.css);
+
+
+@import url(../GoGames/blocks/footer/footer.css);
+@import url(../GoGames/blocks/footer/__logo/footer__logo.css);
+@import url(../GoGames/blocks/footer/__text/footer__text.css);
+@import url(../GoGames/blocks/footer/__links/footer__links.css);
+@import url(../GoGames/blocks/footer/__link/footer_link.css);

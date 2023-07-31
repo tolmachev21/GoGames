@@ -1,0 +1,8 @@
+.started__container {
+    margin: 0;
+    padding: 0;
+    padding-top: 131px;
+    display: flex;
+    flex-direction: column;
+    max-width: 518px;
+}

@@ -1,0 +1,9 @@
+.started__label {
+    width: max-content; 
+    padding: 0;
+    padding-bottom: 26px;
+    margin: 0;
+    color: #446381;
+    font-size: 23px;
+    line-height: 24px;
+}

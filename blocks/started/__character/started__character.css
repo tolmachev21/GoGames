@@ -1,0 +1,6 @@
+.started__character {
+    margin: 0;
+    padding: 46px 0px 0px 32px;
+    display: flex;
+    flex-direction: column;
+}

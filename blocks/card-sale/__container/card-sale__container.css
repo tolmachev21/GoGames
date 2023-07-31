@@ -1,0 +1,7 @@
+.card-sale__container {
+    margin: 0;
+    max-width: 102px;
+    padding: 7px 0 19px 16px;
+    display: flex;
+    align-items: baseline;
+}

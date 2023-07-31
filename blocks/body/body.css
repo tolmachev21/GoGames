@@ -1,0 +1,8 @@
+.body {
+    margin: 0 auto;
+    background-image: url(../../images/image\ 3.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #FFE6D7;
+    max-width: 1167px;
+}
